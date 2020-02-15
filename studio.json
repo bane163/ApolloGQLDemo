@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "West Palm Beach Studio",
+        "region": "North America",
+        "department": "Enterprise .Net",
+        "users":["1"]
+    },
+    {
+        "id": "2",
+        "name": "Vancouver",
+        "region": "North America",
+        "department": "Enterprise .Net",
+        "users":["2"]
+    }
+]
